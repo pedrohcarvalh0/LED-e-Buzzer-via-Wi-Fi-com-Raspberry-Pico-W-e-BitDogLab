@@ -28,6 +28,7 @@ Instruções para execução do programa
 5. Ao entrar no endereço IP vai abrir uma página com o formato mostrado a seguir. Com isso clique em Ligar LED e Buzzer ou Desligar LED e Buzzer para enviar para a placa a sua necessidade:
 
 ![Figura](images/Site_de_controle.png)
+
 [Vídeo do Funcionamento](https://youtube.com/shorts/a33MRwfXQF8)
 
 
